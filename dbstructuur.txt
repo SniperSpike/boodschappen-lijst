@@ -1,0 +1,38 @@
+Database structuur:
+
+Producten 
+- [random id]
+  - Naam Product
+  - Bedrijven
+    - Bedrijfnaam
+      - random id
+        - prijs
+        - datum
+    - Bedrijfnaam
+      - random id
+        - prijs
+        - datum
+    - Bedrijfnaam
+      - random id
+        - prijs
+        - datum
+
+Voorbeeld:
+
+
+Producten 
+- ASD198JD28IO84JDMN
+  - Bier 0.0% 0.33 blik
+  - Bedrijven
+    - Jumbo
+      - random id
+        - 0.38
+        - 10-11-2022
+    - LidlDE
+      - random id
+        - 0.28
+        - 13-11-2022
+    - LidlNL
+      - random id
+        - 0.31
+        - 18-11-2022
